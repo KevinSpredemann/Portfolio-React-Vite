@@ -1,0 +1,35 @@
+.Footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 40px;
+    border-top: #FFFF solid 2px;
+}
+
+.Contacts{
+    color: #FFFF;
+    margin: 25px;
+    font-weight: 500;
+}
+
+.Contacts p{
+    margin: 3px;
+}
+
+.Icons{
+    margin: 13px;
+    transition: 0.7s;
+    cursor: pointer;
+}
+
+.Icons:hover{
+    transform: scale(1.1);
+    transition-duration: 0.7s;
+}
+
+.IconsRejust{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 190px;
+}

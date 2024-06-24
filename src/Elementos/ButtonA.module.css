@@ -1,0 +1,19 @@
+.btn{
+    background: linear-gradient(270deg, #24899b 0%, #2b3984 67.67%, #745797 100%);
+    color: #FFFF;
+    border: none;
+    padding: 15px;
+    border-radius: 20px;
+    font-weight: bolder;
+    margin-top: 15px;;
+    cursor: pointer;
+    transition-duration: 0.7s;
+
+}
+
+.btn:hover{
+    color: #FFFF;
+    background: linear-gradient(270deg, #745797 0%, #24899b 67.67%, #2b3984 100%);
+    transform: translateY(-7px);
+    transition-duration: 0.7s;
+}

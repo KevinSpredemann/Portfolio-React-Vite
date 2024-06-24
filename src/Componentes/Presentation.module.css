@@ -1,0 +1,16 @@
+.presentation{
+    text-align: left;
+    margin-left: 15%;
+    color: #FFFF;
+    margin-bottom: 130px;
+}
+
+.presentation h1{
+    font-size: 45px;
+    font-weight: 400;
+}
+
+.presentation p{
+    color: rgba(188, 188, 188, 1)
+}
+

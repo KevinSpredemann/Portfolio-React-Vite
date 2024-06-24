@@ -1,0 +1,16 @@
+.projects h1{
+    color: #FFFF;
+    margin-left: 15%;
+    font-size: 45px;
+    font-weight: 400;
+    margin-bottom: 60px;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-around;
+}
+
+.projects{
+    margin-bottom: 70px;
+}
